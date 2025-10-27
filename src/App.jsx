@@ -448,7 +448,7 @@ const LoginScreen = ({ onLogin }) => {
         <div className="text-center">
           <IconMessageSquare className="w-12 h-12 mx-auto text-blue-600 dark:text-blue-400" />
           <h2 className="mt-4 text-3xl font-bold">
-            Central de Atendimento
+            CS HUB
           </h2>
           <p className="mt-2 text-sm text-light-text-secondary dark:text-dark-text-secondary">
             Faça login para iniciar sua sessão
